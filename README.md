@@ -2,12 +2,12 @@
 
 ![NextGenEM-Logo](https://i.imgur.com/G6Uz8sU.png)
 
-Wir sind ein innovatives Unternehmen, das sich auf [INSERT YOUR COMPANY'S AREA OF FOCUS] spezialisiert hat. Kontaktieren Sie uns gerne jederzeit unter info@nextgenem.de, um mehr darüber zu erfahren, wie wir Ihnen helfen können.
+Wir sind ein innovatives Unternehmen, das sich auf Software entwicklung und Webdesing spezialisiert hat. Kontaktieren Sie uns gerne jederzeit unter info@nextgenem.de, um mehr darüber zu erfahren, wie wir Ihnen helfen können.
 
 ## Unsere Kontaktpersonen
 
-- Eric Seidel - [INSERT JOB TITLE] - eric.seidel@nextgenem.de
-- Maurice Monath - [INSERT JOB TITLE] - maurice.monath@nextgenem.de
+- Eric Seidel - seidel@nextgenem.de
+- Maurice Monath - monath@nextgenem.de
 
 ## Unsere Technologien
 
